@@ -2,7 +2,7 @@
 > 
 > \- Quoted
 
-![[Humans.jpeg|500]]
+![[Humans.jpeg|300]]
 
 Out of all of the several [[Species & Cultures|species]] that inhabit the vast world of [[The Mundane World of Eruven|Eruven]], humans are not only the most prominent, they are also one of the few species actually native to the Mundane World. A majority of Eruven's realms are thick with humans, their kingdoms, their trade, their craft, or their kin.
 
