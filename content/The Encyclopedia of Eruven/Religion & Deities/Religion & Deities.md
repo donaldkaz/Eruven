@@ -1,0 +1,7 @@
+[[index|Welcome]]
+
+**Religion & Deities** examines the myriad supernatural and extraplanar beings recognized throughout [[The Mundane World of Eruven|Eruven]], including deities, celestials, fey entities, demons, devils, and other powers whose true existence lies beyond the moral planes. This chapter documents their origins, attributes, spheres of influence, and the varied ways in which mortal peoples venerate, bargain with, or fear them.
+
+Given the nature of these beings, the accounts presented herein must be regarded as interpretations rather than incontrovertible fact. Creation myths, divine hierarchies, and descriptions of the planes often differ dramatically between cultures and sources, reflecting the limitations of those who attempt to perceive the ineffable. Particular attention is therefore given to competing traditions, regional variations in worship, and the historical consequences of divine or infernal intervention upon the affairs of mortals.
+
+Some of these beings exist as singular, transcendent powers. Others command vast courts or hierarchies of lesser spirits and servitors. To begin, we shall examine the highest order of divine powers, the [[Elder Creator Gods]] and the innumerable younger [[Successor Gods]].

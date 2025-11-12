@@ -1,0 +1,5 @@
+**Domains:** *Creation, Knowledge, Protection, Sun, War*
+
+Eruv, the Maker, the Engineer, is the patron of the [[Dwarves]]. Eruv, along with his siblings [[Tul]], [[Dus]], and [[Vek]], created [[The Mundane World of Eruven|Eruven]]. These four saw the world as a dynamic expression of their philosophies.
+
+Eruv values integrity, honor, and faithfulness to an ideal. Courage in battle and fair play. Treating your opponent honorably, Eruv teaches, is an expression of your own worthiness. Eruv is associated with permanence, which some elder dwarves take to mean a kind of slavish devotion to tradition. But Eruv teaches permanence is the quality of reliability, of steadfastness. Young dwarves who chafe at the stale and stifling traditions of their elders remind the greybeards that Eruv is the Maker. He expects his children to create marvels, to bring forth new discoveries, new insights. To remake the world anew each generation.
