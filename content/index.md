@@ -1,7 +1,7 @@
 ---
 title: Welcome
 draft: false
-disable graph: true
+exclude-from-graph-view: true
 ---
 ***A Foreword by Alvare Calbo, Dean of the Scrivere School, Imperial University***
 

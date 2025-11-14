@@ -1,0 +1,12 @@
+When discussing the topic of [[Geography & Politics|Geography]] of [[The Mundane World of Eruven|Eruven]] it is helpful to divide the world into sections with similar [[Species & Cultures|cultures]] and[[Religion & Deities|religions]]. On land, we call these sections Realms, and our home [[Plane|plane]] has ten of them.
+![[The Human Realms of Eruven.png]]
+- [[Corvallis]]
+- [[Olythia]]
+- [[Virellie]]
+- [[Zhaern]]
+- [[Kharredin]]
+- [[Nephara]]
+- [[Amaran]]
+- [[Zal'amar]]
+- [[Angorath]]
+- [[Tzalco]]
