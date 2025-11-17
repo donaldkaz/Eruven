@@ -2,7 +2,7 @@
 
 In the beginning, there were only the gods. They spoke and debated and argued endlessly. About what, we cannot know.
 
-At some point in the nothingness before everything the [[Elder Creator Gods|Gods]] [[Eruv]], [[Tul]], [[Dus]], and [[Vek]] said, "Enough talk! It is time to make our philosophies real!" And those four created the [[The Mundane World of Eruven|Mundane World]].
+At some point in the nothingness before everything the [[The Elder Creator Gods|Gods]] [[Eruv]], [[Tul]], [[Dus]], and [[Vek]] said, "Enough talk! It is time to make our philosophies real!" And those four created the [[The Mundane World of Eruven|Mundane World]].
 
 Eruv said, "Listen now. Strength and permanence are best." So he created the land, mountains, and stone.
 

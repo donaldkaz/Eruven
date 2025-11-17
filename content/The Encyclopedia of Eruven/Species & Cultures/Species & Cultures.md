@@ -2,7 +2,7 @@
 
 **Species & Cultures** examines the diverse peoples of [[The Mundane World of Eruven|Eruven]], encompassing both humanoid and non-humanoid species, their origins, physical characteristics, cultural expressions, and roles within the wider world. Many of these species exhibit significant internal diversity, with numerous sub-species and distinct cultural traditions, each of which will be explored throughout this section.
 
-To begin, we will examine the four original humanoid peoples, all of whom trace their existence in the [[The Mundane World of Eruven|Mundane World]] back to the core [[Elder Creator Gods|Creator Gods]] at the dawn of creation. These four species are also the most prominent native peoples of Eruven.
+To begin, we will examine the four original humanoid peoples, all of whom trace their existence in the [[The Mundane World of Eruven|Mundane World]] back to the core [[The Elder Creator Gods|Creator Gods]] at the dawn of creation. These four species are also the most prominent native peoples of Eruven.
 
 - [[Dwarves]]
 - [[Elves]]

@@ -16,7 +16,7 @@ In Eruven, there are a number of different human cultures. While each culture is
 - [[Zal'amari]] people of the central hot steppes and topical monsoon climates of [[Zal'amar]]
 - [[Zhaernic]] people of the cold steppes of [[Zhaern]]
 # Origins
-The origins of humanity is a hotly debated subject, and one without a clear answer. Unlike the others of the four original humanoid species of Eruven, humans do not have a known [[Elder Creator Gods|Creator God]]. As such, humans do not know their creator and may never know how they came into being of this Material Plane. What is known is that humans came to Eruven third, after the elves and before the [[Orcs|orcs]].
+The origins of humanity is a hotly debated subject, and one without a clear answer. Unlike the others of the four original humanoid species of Eruven, humans do not have a known [[The Elder Creator Gods|Creator God]]. As such, humans do not know their creator and may never know how they came into being of this Material Plane. What is known is that humans came to Eruven third, after the elves and before the [[Orcs|orcs]].
 # Appearance
 Humans come in all shapes and sizes, they typically range from 5 feet to little over 6 feet tall, though some are shorter and others taller. They typically weigh between 125 to 250 pounds, though there are exceptions. Human skin shades range from very dark to very pale, and hair colors include black, blond, brown, and many more. Humans reach adulthood in their late teens and rarely live beyond a century.
 # Religion

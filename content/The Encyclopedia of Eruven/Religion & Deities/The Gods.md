@@ -1,0 +1,9 @@
+The beings commonly called gods accupy the highest tier of known supernatural existence. Though they stand beyond mortal comprehension in scope and power, they remain distinct from the formless primordial forces that preceded creation. Instead, the gods are discrete intelligences, vast self-willed entities whose natures shape entire planes, whose thought are the basis of miracles, and whose presence is felt across Eruven through their [[Saints & Legendary Heroes]].
+
+Unlike saints, heroes, or other divine intermediaries, the gods cannot manifest in the [[The Mundane World of Eruven|Mundane World of Eruven]]except through indirect means. Their influence, enabled by the [[The Law of Worship|Law of Worship]], is expressed through omens, dreams, divine-source magic, and the rare interventions of their exalted servants. Yet despite this distance, the gods are undeniably real: their power can be measured in the formation of the [[The Planar Expanse|Planar Expanse]] and the enduring traditions of mortal civilizations that record their deeds.
+
+It must be emphasized that all accounts concerning the gods, their origins, motives, and relationships remain interpretations shaped by mortal perception. Divine phenomena rarely offer clarity, and the gods themselves do not correct misapprehension. Thus, while scholars widely agree on the broad structure of the pantheon, many details remain matters of debate, doctrine, or cultural tradition rather than settled truth.
+
+Scholars and theologians divide the gods into two principal groups:
+- [[The Elder Creator Gods|The Elder Creator Gods]], the oldest of the gods who shaped the foundations of the world and established the [[The Laws of Creation]].
+- [[The Successor Gods|The Successor Gods]], a younger and much more numerous host, revered primarily by humans, who rose to prominence after the world had already taken form.
