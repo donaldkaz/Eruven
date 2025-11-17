@@ -32,5 +32,6 @@ Beyond these principal beings, the many planes of existence are host to numerous
 
 - [[The Fey Courts]]; ancient, capricious powers connected to the natural areas of Eruven.
 - [[The Lords of Hell]]; devils, pact-makers, and the architects of rigid hierarchy in the [[The Seven Cities of Hell|Seven Cities of Hell]].
+- [[The Celestials]]; the true elves, denizens of [[Lux]] and [[Nox]], children of [[Tel]], and the creators of the [[Elves|elves]].
 - [[The Abyssal Princes]]; demons, creatures of incarnate hate, denizens of the [[Abyssal Wasteland]].
 - [[Other Extraplanar Powers]]; entities whose origins or motives defy reliable categorization.
