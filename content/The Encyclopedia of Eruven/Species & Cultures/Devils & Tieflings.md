@@ -1,3 +1,14 @@
 ![[Devils.jpg|500]]
 
 [[Species & Cultures]]
+Out of all of the several [[Species & Cultures|species]] that inhabit the vast world of [[The Mundane World of Eruven|Eruven]],
+
+They are known for 
+# Cultures
+# Origins
+# Appearance
+Height 5 to 6 feet. Weight 120-250 pounds. Life expectancy 70-120 years.
+# Religion
+*For more on this subject, see *
+
+# Homelands

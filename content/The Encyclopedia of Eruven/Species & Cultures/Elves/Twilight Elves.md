@@ -1,4 +1,4 @@
-![[Wode Elves.jpeg|500]]
+![[Shadow Elves.jpg|500]]
 
 [[Elves]]
 Out of all of the several [[Species & Cultures|species]] that inhabit the vast world of [[The Mundane World of Eruven|Eruven]],

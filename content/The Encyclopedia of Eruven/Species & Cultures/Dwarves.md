@@ -4,11 +4,14 @@ Among the myriad [[Species & Cultures|species and cultures]] across [[The Mundan
 
 Possessed of a strength that belies their size, dwarves have flesh infused with stone, a silico-organic hybrid making them physically denser than most other humanoids. They enjoy a reputation  in Eruven as savvy engineers and technologists thanks to the lore they inherited from their elder siblings, the long-extinct [[The Steel Dwarves|steel dwarves]].
 # Cultures
-Text
+In Eruven dwarven society is much more homogenous than human cultures. While the different dwarven societies hold some different cultural differences across the vast lands of Eruven, any given dwarven society holds much more in common with each other than any of the multiple diverse human societies might. The dwarves are a proud people, and also somewhat secretive with certain aspects of their culture. They do not have massive empires or realms, instead they reside in large underground cities beneath the mountains where they were born, and from those cities explore the vast riches and depths of this plane's earth.  
+- [[Valas Oro]], the dwarven thanedom in northern [[Corvallis]] governed out of the fabled [[The City of Gold|City of Gold]] beneath the [[The Amber Mountains|Amber Mountains]].
+- [[Val Kalavar]], a smaller dwarven hold in central Corvallis beneath the [[The Granite Mountains|Granite Mountains]].
+- [[Valas Cypriar]], a thanedom in southern Corvallis governed out of the [[The City of Machines|City of Machines]] beneath the [[The Blue Cloud Mountains|Blue Cloud Mountains]].
 # Origins
 Dwarves are the children of the [[The Elder Creator Gods|elder god]] [[Eruv]], and a common phrase among dwarves is "Eruv made the world", their way of saying, "What will be, will be." They take great pride in knowing that along with [[Dus]], [[Tul]], and [[Vek]], their god created the mundane world, and many dwarves leave their homes to see the world and seek glory in Eruv's name.
 # Appearance
-Dwarves are humanoids with stony skin with short and stout bodies. They are typically between 4 to 5 feet tall, and usually weigh between 400 and 500 pounds thanks to their extreme density. Dwarven skin shades encompasses the shade of any stone or gem that may be found on or under the surface of Eruven. Among dwarves it is common that their heads are bald, instead of the hair that grows on other humanoid peoples, dwarves sport beards, mustaches, and "hair" of colorful gemstone outcroppings. Dwarves reach maturity around the the age of 30, then the age of elderhood at 130, and can live to around the age of 200.
+Dwarves are humanoids with stony skin with short and stout bodies. They are typically between 4 and 4.5 feet tall, and usually weigh between 500 and 1000 pounds thanks to their extreme density. Dwarven skin shades encompasses the shade of any stone or gem that may be found on or under the surface of Eruven. Among dwarves it is common that their heads are bald, instead of the hair that grows on other humanoid peoples, dwarves sport beards, mustaches, and "hair" of colorful gemstone outcroppings. Dwarves reach maturity around the the age of 30, then the age of elderhood at 130, and can live to around the age of 200.
 # Religion
 *For more on this subject, see [[Dwarven Religions]]*
 *On dwarven heroes, see [[Dwarven Heroes]]*

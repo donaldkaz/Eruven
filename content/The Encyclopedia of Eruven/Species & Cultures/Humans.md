@@ -7,7 +7,7 @@ They are known for their trade, ambition, and ingenuity. They are short-lived co
 In Eruven, there are a number of different human cultures. While each culture is associated with a particular homeland, a person of any culture could find themselves in any other culture's homeland. Furthermore, migration might mean that a person may have the appearance typically associated with one culture, but be a part of and behave as another culture. That is to say, a person my look Olythian, behave like a Nepharan, have a Virellien name, and live in [[Corvallis]].
 - [[Amaranian]] people of the kingdoms in the monsoon fed mountains and forests of [[Amaran]]
 - [[Angorathi]] people of a long forgotten empire in the tropical jungles of [[Angorath]]
-- [[Corvallin]] people of the petty feudal kingdoms of [[Corvallis]].
+- [[Corvallin]] people of the petty feudal kingdoms of Corvallis.
 - [[Kharredini]] people of the harsh desert lands of [[Kharredin]]
 - [[Nepharan]] people of the distant deserts and jungles of [[Nephara]]
 - [[Olythian]] people of a once great empire in the prosperous lands of [[Olythia]]
@@ -18,7 +18,7 @@ In Eruven, there are a number of different human cultures. While each culture is
 # Origins
 The origins of humanity is a hotly debated subject, and one without a clear answer. Unlike the others of the four original humanoid species of Eruven, humans do not have a known [[The Elder Creator Gods|Creator God]]. As such, humans do not know their creator and may never know how they came into being of this Material Plane. One potential answer may be found within one of the widely accepted versions of Eruven's [[Creation Myth|creation myth]]. What is known is that humans came to Eruven third, after the elves and before the [[Orcs|orcs]].
 # Appearance
-Humans come in all shapes and sizes, they typically range from 5 feet to little over 6 feet tall, though some are shorter and others taller. They typically weigh between 125 to 250 pounds, though there are exceptions. Human skin shades range from very dark to very pale, and hair colors include black, blond, brown, and many more. Humans reach adulthood in their late teens and rarely live beyond a century.
+Humans come in all shapes and sizes, they typically range from 5 feet to little over 6 feet tall, though some are shorter and others taller. They typically weigh between 125 to 250 pounds, though there are exceptions. Human skin shades range from very dark to very pale, and hair colors include black, blond, brown, and many more. Humans reach adulthood in their late teens can expect to live for 70 to 120 years.
 # Religion
 *For more on this subject, see [[Human Religions]]*
 

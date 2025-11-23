@@ -1,9 +1,10 @@
 ---
 draft: true
 ---
+[[Adventure Beginnings 3 - Rumblings of Goblin Invasion|Next Game]]
 ## Introduction
 ### Session Description
-Example: Triumphant heroes. Plotting villains. The people of Blackwell in need of the help of heroes.
+Triumphant heroes. Plotting villains. The people of Blackwell in need of the help of heroes.
 ### Opening Monologue
 > Every new age is defined by the one that came before.
 > 
