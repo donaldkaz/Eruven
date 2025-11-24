@@ -34,24 +34,23 @@ This creation was deemed impolite by the gods, though some believed the Dragons 
 
 Some of the gods argued that the world was no longer perfect and the time had come to begin again with a new world. Some said the world was better without Life, some said without Death, and many said without Dragons or Celestials.
 
-Meanwhile, the brothers Eruv and Vek thought things were getting out of hand. Their sisters Tul and Dus did not complain, but the two brothers saw their creation was now populated by creatures that could think and know, but did not know the creators of the world. Worst of all, the other gods were now speaking openly about unmaking their creation! The two brothers put their heads together and created their own people, the [[Elementals]].
+Meanwhile, Eruv thought things were getting out of hand. His sisters and brother Tul, Dus, and Vek did not complain, but Eruv saw his creation was now populated by creatures that could think and know, but did not know the creators of the world. Worst of all, the other gods were now speaking openly about unmaking their creation! Eruv contemplated for a while and then created his own people, Eruv made the [[Dwarves]].
 
-Placing the Elementals in the world, Eruv and Vek created a new Law, the Law of Time. Nothing that is done can be undone. Nothing that is made can be unmade. No thought can be unthought; a word said cannot be unspoken. Every cause must now have an effect. The world, their creation, could not be unmade.
+Placing the Dwarves in the world, Eruv created a new Law, the Law of Time. Nothing that is done can be undone. Nothing that is made can be unmade. No thought can be unthought; a word said cannot be unspoken. Every cause must now have an effect. The world, their creation, could not be unmade.
 
 Neph objected. Tel objected. Their creations should not be hampered by such limitations. They should be free to act and change using Will alone!
 
 "Would that not be a violation of the Law of Nature?" Ren asked pointedly. Some gods agreed, some disagreed, and the gods fell into bickering.
 
-Meanwhile, [[Kuv]] saw the creations of Neph and Tel, of Eruv and Vek, and felt the gods were cheating. Of course their creations were marvelous! Each carried with it the power of a god! Each reflected the merits and temperaments of its creator. How could they be proud of their creations, when those creatures achieved nothing except through use of the power of their creators? Kuv thought it unseemly for a god to take pride in his children when his children were merely extensions of the god.
+Meanwhile, [[Kuv]] saw the creations of Neph and Tel and Eruv, and felt the gods were cheating. Of course their creations were marvelous! Each carried with it the power of a god! Each reflected the merits and temperaments of its creator. How could they be proud of their creations, when those creatures achieved nothing except through use of the power of their creators? Kuv thought it unseemly for a god to take pride in his children when his children were merely extensions of the god.
 
 Kuv wanted life that could know the world and truly belong to it, to be a part of it. So he created the [[Humans]]. Instead of giving them a part of his power, he bout them inextricably to the Laws of Nature, Time, and Death. They would be short-lived, and they would achieve nothing through will alone, but would have to marry their will to action. They would die in their own course, and each would live out their span of years in an orderly manner, each day following the previous, with no exceptions.
 
 While the other gods were arguing, Kuv placed his creations in the world, on the earth, and whispered to them, "Go forth, little Man, and live life by your own measure, and not the will of the gods."
 
-Men were frightened and confused; they had no understanding of the world except that which they could reason. They were superstitious and quarreled amongst each other. And Kuv was
-afraid. Had he made a mistake? But then some Men mastered their fear, and others sought knowledge, and yet others sought peace. And Kuv believed his creation the greatest of all that walked or crawled or flew. Not because they had courage, and knowledge and wisdom, but because they had fear, and ignorance, and hate... and mastered them. All without the aid of the gods. Kuv came to see fear and ignorance and strife as necessary to creation, because without them there could be no courage, nor knowledge, nor wisdom.
+Men were frightened and confused; they had no understanding of the world except that which they could reason. They were superstitious and quarreled amongst each other. And Kuv was afraid. Had he made a mistake? But then some Men mastered their fear, and others sought knowledge, and yet others sought peace. And Kuv believed his creation the greatest of all that walked or crawled or flew. Not because they had courage, and knowledge and wisdom, but because they had fear, and ignorance, and hate... and mastered them. All without the aid of the gods. Kuv came to see fear and ignorance and strife as necessary to creation, because without them there could be no courage, nor knowledge, nor wisdom.
 
-But then Man began to fight the other peoples. Kuv frowned. The Elementals, the Celestials, and the Dragons never fought amongst themselves, much less each other. And now the Humans were audacious enough, hostile enough, to fight anything and everything around them. Man fought the other speaking folk. Man fought Nature. Man fought Time. Man fought Death.
+But then Man began to fight the other peoples. Kuv frowned. The Dwarves, the Celestials, and the Dragons never fought amongst themselves, much less each other. And now the Humans were audacious enough, hostile enough, to fight anything and everything around them. Man fought the other speaking folk. Man fought Nature. Man fought Time. Man fought Death.
 
 The other gods were astonished that war had come to their World. Some were horrified, some were fascinated. When Man began to fight Dragons, Neph, the First Father, was furious. He ordered his Dragons to destroy the Humans. Many gods supported Neph, and many did not.
 
@@ -59,7 +58,7 @@ Some said he had no right to compel the Dragons, nothing more than extensions of
 
 But this proved impossible. Ren, the Goddess of Life, had created the Law of Nature. And the Law of Nature forbade anything in the Mundane World from acting by Will alone. The gods, lacking any substance apart from will, could not directly affect the world. Ren's Law forbade them.
 
-Eruv and Vek tried to directly interfere on behalf of their Elementals, and found they could not.
+Eruv tried to directly interfere on behalf of his Dwarves, and found he could not.
 
 Tel tried to interfere on behalf of the Celestials, and found he could not.
 
@@ -88,3 +87,5 @@ The god of Death was dead. The God of Men destroyed. With Pal gone, the Law of D
 In mourning for his destroyed children, in mourning for his dead brother, Neph created [[The Law of Magic]]. In opposition to Worship, Neph granted access to his essence and power to any being who obeyed his esoteric rules, who learned the secrets of the [[First Language]], the speech of his dead children.
 
 Good, evil, these concepts had no meaning to Neph. He did not desire worship from any source. Those who used his power would never know him, never know his mind. But by using his power, he would be dimly reminded of his children, and their lost connection to him.
+
+Finally, at the twilight of creation when the fashion among the gods for creating new, intelligent, species was petering out, Vek created his own people to inhabit the world. He created the [[Orcs]], a people whose blood flowed with the same fire that Vek had put within the world at its creation.

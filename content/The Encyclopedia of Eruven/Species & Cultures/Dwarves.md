@@ -21,4 +21,4 @@ Dwarves are humanoids with stony skin with short and stout bodies. They are typi
 
 Dwarven [[Religion & Deities|Religion]], across cultural lines, has its foundations in the worship of Eruv and his [[Saints & Legendary Heroes|legendary heroes]].
 # Homelands
-Text
+Dwarves came to be in the bowels of the tallest and oldest mountains of Eruven when the world was still young. They were the first of the original humanoid species of Eruven, created by their patron god Eruv after the creation of the [[The Elder Dragons|Elder Dragons]] and the [[The Celestials|Celestials]].
