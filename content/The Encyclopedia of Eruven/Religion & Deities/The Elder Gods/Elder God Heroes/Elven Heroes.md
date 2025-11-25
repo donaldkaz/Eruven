@@ -6,4 +6,4 @@ The following legendary [[Saints & Legendary Heroes|heroes]] of the [[Elves|elve
 - [[Yllin Dyrvis]], also known as the Beast Heart, guardian of faeries, dryads, and other woodland creatures.
 - [[Thyll Hylacae]], also known as Apotharchon, first to learn the language of the trees.
 - [[Illwyv li Orchiax]], also known as Manslayer, was the first [[Wode Elves|Wode Elf]] to take up arms to protect the [[Wodes]] from [[Humans|humans]].
-- [[Every Strike of Lightning a Lover Betrayed]], also known as the Queen of Twilight, the first [[Twilight Elves|shadow elf]] to be created from the united effort of a [[Solis Celestial|Solis]] and [[Dusk Celestial|Dusk]] celestial.
+- [[Every Strike of Lightning a Lover Betrayed]], also known as the Queen of Twilight, the first [[Twilight Elves|shadow elf]] to be created from the united effort of a [[Solis Celestials|Solis]] and [[Dusk Celestials|Dusk]] celestial.

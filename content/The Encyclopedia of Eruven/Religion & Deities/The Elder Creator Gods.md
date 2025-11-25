@@ -4,7 +4,7 @@ Following the creation of the orcs, the practice of crafting new mortal peoples 
 
 In accordance with the [[The Law of Nature|Law of Nature]], the Elder Gods, like all deities, are prohibited from direct interference in the world, relying instead on intermediaries such as [[Saints & Legendary Heroes| saints, heralds, and legendary heroes]] to enact their will.
 # Creation
-The Elder Gods are responsible for writing the [[The Laws of Creation|Laws of Creation]], establishing the current organization of the [[The Higher Planes of Existence|Higher]] and [[The Lower Planes of Existence|Lower]] planes of existence, and bringing the world of Eruven itself into being. Their actions shaped the fundamental principles by which magic, life, death, and natural order continue to operate.
+The Elder Gods are responsible for writing the [[The Laws of Creation|Laws of Creation]], establishing the current organization of the [[The Planar Expanse|Planar Expanse]], and bringing the world of Eruven itself into being. Their actions shaped the fundamental principles by which magic, life, death, and natural order continue to operate.
 # Members
 The number of deities known as the Elder Gods is relatively short, and are listed below:
 - [[Dus]] the Tidemother, creator of the seas and rains.
