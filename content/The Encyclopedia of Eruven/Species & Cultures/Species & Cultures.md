@@ -11,9 +11,9 @@ To begin, we will examine the four original humanoid peoples, all of whom trace 
 
 Next, we will go over the other species, while rarely seen by most commonfolk, are numerous enough in most lands to be listed independent of the more uncommon peoples below.
 
-- [[Draconians]]
 - [[Devils & Tieflings]]
-- [[Hakaan]]
+- [[Draconians]]
+- [[Kaynak]]
 - [[Smallfolk]]
 
 For the remaining uncommon species scattered across the [[The Mundane World of Eruven|Mundane World]], they have been divided into categories of species based on their origins.
