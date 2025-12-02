@@ -21,7 +21,7 @@ Orcs are the children of the [[The Elder Creator Gods|elder god]] [[Vek]], creat
 # Appearance
 Orcs are slightly taller, wider, and stronger than humans, with their height ranging from 5.5 to 6.5 feet and weight 150 to 300 pounds. They can expect to live about 50 to 90 years. Orcs have sing in greens tones and a supernatural energy they call "the blood fire" that flows in their veins, igniting colorful lines in an orc's skin during life-or-death moments. Orcs have strong angular facial features and sport hair shades in the same range as human hair.
 # Religion
-*For more on this subject, see [[Orcish Religions]]*
+*For more on this subject, see [[The Elder Creator Gods]]*
 
 Orcish [[Religion & Deities|Religion]], unlike other religions, does not revolve around the worship of Vek. Uniquely among the Elder Creator Gods, Vek does not desire worship. Orcs still call out to Vek in desperate times, but in those moments they do not call out for aid, only that Vek witness them, and that they might prove worthy of his attention. Vek's [[Saints & Legendary Heroes|legendary heroes]] are not philosophers or poets, but warriors and hunters.
 # Homelands

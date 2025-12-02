@@ -1,1 +1,1 @@
-Ancient Greece/Hellenic inspired society
+The region of Olythia is on the western continent of [[The Mundane World of Eruven|Eruven]], located north of the [[Human Realms|realms]] of [[Virellie]] and [[Zal'amar]].

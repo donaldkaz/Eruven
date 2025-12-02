@@ -1,1 +1,1 @@
-Eastern European/Central Asian inspired stepped society
+The region of Zhaern is on the eastern side of the north eastern continent of [[The Mundane World of Eruven|Eruven]]. It is located to the east of the [[Human Realms|realm]] of [[Corvallis]] and to the north of [[Nephara]].

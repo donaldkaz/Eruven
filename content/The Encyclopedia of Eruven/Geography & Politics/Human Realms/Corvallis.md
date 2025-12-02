@@ -1,1 +1,1 @@
-Medieval Europe inspired society
+The region of Corvallis is the largest [[Human Realms|realm]] of [[The Mundane World of Eruven|Eruven]], located on the western side of the north east continent of the world. It is located west of [[Zhaern]] and east across the [[The Pale Sea|Pale Sea]] from [[Olythia]] and [[Virellie]].

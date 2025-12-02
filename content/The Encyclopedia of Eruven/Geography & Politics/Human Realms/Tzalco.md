@@ -1,1 +1,1 @@
-Mesoamerican/Aztec inspired swampy culture
+The region of Tzalco is on the western continent of [[The Mundane World of Eruven|Eruven]], located south of the [[Human Realms|realm]] of [[Angorath]], east of [[Amaran]], and north of [[Kharredin]].

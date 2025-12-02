@@ -16,7 +16,7 @@ The resulting descendants of these stone giants who made this deal with Holkatya
 # Appearance
 Kaynak stand at imposing heights, ranging from 9 to 10 feet tall, and can weigh anywhere from 1,000 to 2,000 pounds due to the fact that their well-muscled bodies are made of organic stone. Kaynak can often expect to live for 100 to 200 years. Kaynak skin shades spans the colors of the rocks their flesh is made of, including sandstone, marble, granite, and basalt, and Kaynak have dark black hair.
 # Religion
-*For more on this subject, see [[Kaynak Religions]]*
+*For more on this subject, see [[Kaynak Heroes]]*
 
 Most kaynak in Eruven are animists. They know and respect the four [[The Elder Creator Gods|Elder Gods]] who created the world and believe these gods watch the world and see what happens within it. However, the kaynak do not create churches or formal belief systems around this attitude. Instead, they believe the world is filled with innumerable nature spirits, each river, tree, stone has their own spirit, which the kaynak revere. 
 

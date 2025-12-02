@@ -8,4 +8,4 @@ It is dangerous to worship Cyrvis in public, but those who gain power through hi
 
 His churches are often underground, in dungeons or cellars. His priests worship in secret, plotting against those with power, or those who are merely popular. To be liked and loved is reason enough for a follower of Cyrvis to hate you.
 # Cyrvis's Saints
-- [[Eseld of the Eye]]
+- [[Saint Eseld of the Eye]]

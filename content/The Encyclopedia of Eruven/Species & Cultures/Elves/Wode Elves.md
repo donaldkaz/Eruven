@@ -18,7 +18,7 @@ Wode elves trace their origins to the Dusk [[The Celestials|Celestials]], who cr
 # Appearance
 Like all others elves, wode elves' height can range from 5.5 to 6.5 feet, can weigh from 100 to 150 pounds, and can expect to live for 400 to 600 years. Wode elves are lithe humanoids with finely furred skin in all shades of blue. They have angular features, large wide-set eyes, and large pointed ears akin to a bat's. They possess a supernatural glamor that allows them to blend in with their surroundings when they wish to hide.
 # Religion
-*For more on this subject, see [[Elven Religions]]*
+*For more on this subject, see [[The Elder Creator Gods]]*
 
 Leven [[Religion & Deities|Religion]], across cultural lines, has its foundations in the worship of their patron god [[Tel]], the Celestials, and Tel's [[Saints & Legendary Heroes|legendary heroes]].
 # Homelands

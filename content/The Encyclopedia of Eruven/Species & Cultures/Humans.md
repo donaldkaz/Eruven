@@ -20,7 +20,7 @@ The origins of humanity is a hotly debated subject, and one without a clear answ
 # Appearance
 Humans come in all shapes and sizes, they typically range from 5 feet to little over 6 feet tall, though some are shorter and others taller. They typically weigh between 125 to 250 pounds, though there are exceptions. Human skin shades range from very dark to very pale, and hair colors include black, blond, brown, and many more. Humans reach adulthood in their late teens can expect to live for 70 to 120 years.
 # Religion
-*For more on this subject, see [[Human Religions]]*
+*For more on this subject, see [[The Successor Gods]]*
 
 Human [[Religion & Deities|Religion]] has its foundations in their various diverse cultures, but due to migration, trade, and conquest, it is not uncommon to stumble upon followers of one religions inside the borders of another's culture.
 # Homelands

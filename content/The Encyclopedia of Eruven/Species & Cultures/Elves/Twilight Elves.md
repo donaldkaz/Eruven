@@ -10,7 +10,7 @@ Twilight elves trace their origins to the cooperation between the Solis and Dusk
 # Appearance
 Like all other elves, twilight elves' height can range from 5.5 to 6.5 feet, can weigh 100 to 150 pounds, and can expect to live 400 to 600 years. Twilight elves are tall and lithe, sport pointed ears and extremely pale skin and hair. Due to their unique connection to the moons Lux and Nox, twilight elves seem to be lit by an unseen sun. In places like Eruven, they appear washed out, silhouetted, or grayscale.
 # Religion
-*For more on this subject, see [[Elven Religions]]*
+*For more on this subject, see [[The Elder Creator Gods]]*
 
 Elven [[Religion & Deities|Religion]], across cultural lines, has its foundations in the worship of their patron god [[Tel]], the celestials, and Tel's [[Saints & Legendary Heroes|legendary heroes]].
 # Homelands

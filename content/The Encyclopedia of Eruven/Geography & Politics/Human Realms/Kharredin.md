@@ -1,1 +1,1 @@
-Medieval Persian/Arabic inspired society
+The region of Kharredin is on the western continent of [[The Mundane World of Eruven|Eruven]], located south of the [[Human Realms|realms]] of [[Angorath]] and [[Tzalco]].

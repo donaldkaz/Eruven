@@ -1,1 +1,1 @@
-Tropical India/SE Asia inspired monsoon culture
+The region of Amaran is on the western continent of [[The Mundane World of Eruven|Eruven]] located west of the [[Human Realms|realms]] of [[Angorath]] and [[Tzalco]].

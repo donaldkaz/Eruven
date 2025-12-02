@@ -11,7 +11,7 @@ Draconians are created by the esoteric arcane ritual of Dracogenisis, a ritual w
 # Appearance
 Draconians stand tall, with their height typically ranging from 6 to 7 feet, weighing between 200 and 350 pounds. Draconians often have shorter lifespans than an equivalent human, expecting to live anywhere between 50 and 90 years. Draconians sport naturally muscular frames, and their reptilian bodies are covered in dragon-like scales with colors that span the rainbow. All draconians have wings, but only a few have wings large enough to actually let them fly.
 # Religion
-*For more on this subject, see [[Human Religions]]*
+*For more on this subject, see [[The Successor Gods]]*
 
 Draconian practice the [[Religion & Deities|Religions]] of whichever culture or society they had been raised in. Because the most populous group of draconians are the dragon knights of Corvallis, most draconians will worship the [[Human Gods of Corvallis]].
 # Homelands

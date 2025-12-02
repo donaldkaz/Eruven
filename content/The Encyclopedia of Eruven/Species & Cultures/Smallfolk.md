@@ -12,7 +12,7 @@ Due to this lack of reference in much historical record, some scholars posit tha
 # Appearance
 Polders are very short, in accordance with the moniker of smallfolk, with their height ranging from 3 to 4 feet and their weight ranging 20 to 50 pounds. Polders can expect to live 50 to 90 years, a bit shorter than a human.
 # Religion
-*For more on this subject, see [[Human Religions]]*
+*For more on this subject, see [[The Successor Gods]]*
 
 Similarly to the lack of any unique culture or society, smallfolk ascribe themselves to the [[Religion & Deities|Religion]] of whatever culture or society they were raised in, typically human.
 # Homelands

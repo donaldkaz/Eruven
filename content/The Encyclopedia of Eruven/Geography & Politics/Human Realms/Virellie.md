@@ -1,1 +1,1 @@
-Cultural hub, Italian/Spanish renaissance inspired society
+The region of Virellie is on the north east coast of the western continent of [[The Mundane World of Eruven|Eruven]]. It is located south of the [[Human Realms|realm]] of [[Olythia]], east of [[Zal'amar]], north of [[Angorath]], and west across the [[The Pale Sea|Pale Sea]] from [[Corvallis]].

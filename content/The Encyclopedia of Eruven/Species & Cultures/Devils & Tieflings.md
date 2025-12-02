@@ -14,7 +14,7 @@ Tieflings, on the other hand, are the descendants of devils stranded on Eruven o
 # Appearance
 Devils and Tieflings share much of their base physical attributes with humans, their height typically ranging between 5 to 6 feet, weighing 120 to 250 pounds, and can expect to live for 70 to 120 years. Their skin is often red or blue, expressed in a wide variety of hues, from bright crimson to deep purple. Each devil or tiefling is born with at least one *hellmark:* horns, a tail, glowing eyes, cloven hooves, a forked tongue, fanged incisors, or even wings.
 # Religion
-*For more on this subject, see either [[Human Religions]] or [[Devil Religions]]*
+*For more on this subject, see either [[The Successor Gods]] or [[The Lords of Hell]]*
 
 Tieflings in Eruven usually serve the [[The Gods|gods]] and [[Saints & Legendary Heroes|saints]] of the culture in which they were raised.
 

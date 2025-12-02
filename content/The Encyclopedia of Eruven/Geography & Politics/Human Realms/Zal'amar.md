@@ -1,1 +1,1 @@
-North Africa/Berber inspired hot steppe culture
+The region of Zal'amar is on the western continent of [[The Mundane World of Eruven|Eruven]], located south of the [[Human Realms|realm]] of [[Olythia]], west of [[Virellie]], and north of [[Angorath]].

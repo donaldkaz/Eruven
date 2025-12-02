@@ -16,7 +16,7 @@ Dwarves are the children of the [[The Elder Creator Gods|elder god]] [[Eruv]], a
 # Appearance
 Dwarves are humanoids with stony skin with short and stout bodies. They are typically between 4 and 4.5 feet tall, and usually weigh between 500 and 1000 pounds thanks to their extreme density. Dwarven skin shades encompasses the shade of any stone or gem that may be found on or under the surface of Eruven. Among dwarves it is common that their heads are bald, instead of the hair that grows on other humanoid peoples, dwarves sport beards, mustaches, and "hair" of colorful gemstone outcroppings. Dwarves reach maturity around the the age of 30, then the age of elderhood at 130, and can live to around the age of 200.
 # Religion
-*For more on this subject, see [[Dwarven Religions]]*
+*For more on this subject, see [[The Elder Creator Gods]]*
 *On dwarven heroes, see [[Dwarven Heroes]]*
 
 Dwarven [[Religion & Deities|Religion]], across cultural lines, has its foundations in the worship of Eruv and his [[Saints & Legendary Heroes|legendary heroes]].

@@ -21,7 +21,7 @@ High elves trace their origins to the Solis Celestials, who created the high elv
 # Appearance
 Like all other elves, high elves' height can range from 5.5 to 6.5 feet, can weigh from 100 150 pounds, and can expect to live for 400 to 600 years. High elves have tall, willowy bodies, pointed ears, and smoother skin than most other humanoids. Rare metal inlays such as gold, platinum, palladium, and iridium acts as organic components within their skin.
 # Religion
-*For more on this subject, see [[Elven Religions]]*
+*For more on this subject, see [[The Elder Creator Gods]]*
 
 Elven [[Religion & Deities|Religion]], across cultural lines, has its foundations in the worship of their patron god [[Tel]], the celestials, and Tel's [[Saints & Legendary Heroes|legendary heroes]].
 # Homelands

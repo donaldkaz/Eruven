@@ -1,1 +1,1 @@
-Khmer Empire/SE Asia inspired tropical culture
+Angorath is located centrally on the western continent of [[The Mundane World of Eruven|Eruven]], south of [[Zal'amar]] and [[Virellie]] and north of [[Amaran]] and [[Tzalco]].

@@ -10,3 +10,4 @@ Here below are the human gods of Corvallis:
 - [[Salorna]]
 - [[Nikros the Tyrant]]
 - [[Cyrvis]]
+*See [[Saints of Corvallis]] for a list of saints*

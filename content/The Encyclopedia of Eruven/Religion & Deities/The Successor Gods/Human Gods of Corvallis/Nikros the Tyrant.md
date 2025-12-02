@@ -12,4 +12,4 @@ Like Cyrvis, his priests worship in secret. Like Cyrvis, folk hate followers of 
 
 Nikros’s paladins and clerics take what they want, ignore the law heedless of consequence, and teach that all folk should live thus. To subjugate one’s will to the law, or the community, or the family, is to be weak! Weakness is a disease and it must be eradicated!
 # Nikros's Saints
-- [[Pentalion the Paladin]]
+- [[Saint Pentalion the Paladin]]

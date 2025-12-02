@@ -1,5 +1,3 @@
-- [[Dwarven Religions]]
-- [[Human Religions]]
-- [[Elven Religions]]
-- [[Orcish Religions]]
-- [[Other Religions]]
+- [[The Elder Creator Gods]]
+- [[The Successor Gods]]
+- [[The Lords of Hell]]

@@ -1,1 +1,1 @@
-Ancient Egyptian inspired society
+The region of Nephara is isolated on the south eastern continent of [[The Mundane World of Eruven|Eruven]], located south of [[Zhaern]].
