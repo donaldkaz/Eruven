@@ -41,7 +41,7 @@ Scene Description
 	- She left a contingent of goblins at the tomb (the goblins the party defeated) to search for the cup while she looks for a new base.
 	- The lower levels of the tomb are sealed off with magic. The goblins captured a human whom [[Vorgosh]], a goblin mage, believes can be used in a sacrificial ritual to unseal the tomb.
 - After interrogating the captured goblins, the party executed them
-- The party returned to Blackwell triumphantly with Ashleigh and Violet, being met by Abbot Loric of  the Church of [[Saint Gryffyn]].
+- The party returned to Blackwell triumphantly with Ashleigh and Violet, being met by Abbot Loric of  the Church of [[Saint Gryffyn the Stout]].
 	- The Abbot welcomed the party kindly and thanked them for saving Violet.
 	- He expressed that many of the villagers are in need of help from adventurers.
 	- He also said that it was concerning that the Jagged Edge goblins are trying to get this artifact in the Delian tomb, suggesting that the party get whatever the artifact is first.
