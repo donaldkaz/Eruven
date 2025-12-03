@@ -5,12 +5,12 @@ Among the myriad [[Species & Cultures|species and cultures]] across [[The Mundan
 Possessed of a strength that belies their size, dwarves have flesh infused with stone, a silico-organic hybrid making them physically denser than most other humanoids. They enjoy a reputation  in Eruven as savvy engineers and technologists thanks to the lore they inherited from their earliest ancestors and their patron god Eruv.
 # Cultures
 In Eruven dwarven society is much more homogenous than human cultures. While the different dwarven societies hold some different cultural differences across the vast lands of Eruven, any given dwarven society holds much more in common with each other than any of the multiple diverse human societies might. The dwarves are a proud people, and also somewhat secretive with certain aspects of their culture. They do not have massive empires or realms, instead they reside in large underground cities beneath the mountains where they were born, and from those cities explore the vast riches and depths of this plane's earth.  
-- [[Valas Oro]], a thanedom in northern [[Corvallis]] governed out of the fabled [[The City of Gold|City of Gold]] beneath the [[The Amber Mountains|Amber Mountains]].
+- [[Valas Oro]], a thanedom in north west [[Corvallis]] governed out of the fabled [[The City of Gold|City of Gold]] beneath the [[The Amber Mountains|Amber Mountains]].
 - [[Val Kalavar]], a hold in central Corvallis beneath the [[The Granite Mountains|Granite Mountains]].
 - [[Valas Cypriar]], a thanedom in southern Corvallis governed out of the [[The City of Machines|City of Machines]] beneath the [[The Blue Cloud Mountains|Blue Cloud Mountains]].
-- [[Valas Calvitior]], a thanedom north of the Zhaernic steppe beneath the [[The Bald Mountains|Bald Mountains]].
-- [[Valas Aeron]], a thanedom ruling the mountains surrounding [[Olythia]] ruled out of the [[The Dawn Gate|Dawn Gate]]
-- [[Val Bailon]], a hold under the [[The Smoking Peaks|Smoking Peaks]] on the Heggian Peninsula of Olythia.
+- [[Valas Calvitior]], a thanedom north of the Zhaernic steppe governed out of the [[The Black Halls|Black Halls]] beneath the [[The Bald Mountains|Bald Mountains]].
+- [[Valas Aeron]], a thanedom ruling the eastern mountains of [[Olythia]] ruled out of the [[The Dawn Gate|Dawn Gate]]
+- [[Val Bailon]], a hold under the [[The Smoking Peaks|Smoking Peaks]] on the [[The Heggian Peninsula|Heggian Peninsula]] of western Olythia.
 # Origins
 Dwarves are the children of the [[The Elder Creator Gods|elder god]] [[Eruv]], and a common phrase among dwarves is "Eruv made the world", their way of saying, "What will be, will be." They take great pride in knowing that along with [[Dus]], [[Tul]], and [[Vek]], their god created the mundane world, and many dwarves leave their homes to see the world and seek glory in Eruv's name.
 # Appearance

@@ -1,7 +1,7 @@
-A [[Dwarves|dwarven]] society are called Thanedom, a collection of multiple dwarven familial clans ruled by the most senior member the leading clan. Below is a list of some of the most prominent dwarven societies:
-- [[Valas Oro]]
-- [[Valas Aeron]]
-- [[Valas Cypriar]]
-- [[Valas Calvitior]]
-- [[Val Bailon]]
-- [[Val Kalavar]]
+A [[Dwarves|dwarven]] society is known as a Thanedom, a collection of multiple dwarven familial clans ruled by the most senior member the leading clan. Dwarven societies are centered around very densely packed cities beneath the mountains, either a massive capital city denoted by the dwarven word **Valas** meaning capital or a smaller outpost city called a hold denoted by the dwarven word **Val** meaning city. Below is a list of some of the most prominent dwarven thanedoms and holds:
+- [[Valas Oro]] a thanedom ruled out of [[The City of Gold]] beneath the [[The Amber Mountains|Amber Mountains]] in north west [[Corvallis]].
+- [[Valas Aeron]] a thanedom ruled out of [[The Dawn Gate]] beneath eastern mountains of [[Olythia]].
+- [[Valas Cypriar]] a thanedom ruled out of [[The City of Machines]] beneath the [[The Blue Cloud Mountains|Blue Cloud Mountains]] in south west [[Corvallis]].
+- [[Valas Calvitior]] a thanedom ruled out of [[The Black Halls]] beneath the [[The Bald Mountains|Bald Mountains]] north of the steppes of [[Zhaern]].
+- [[Val Bailon]] a subsidiary hold of Valas Aeron beneath the [[The Smoking Peaks|Smoking Peaks]] on the [[The Heggian Peninsula|Heggian Peninsula]] of western [[Olythia]].
+- [[Val Kalavar]] a subsidiary hold of Valas Oro beneath the [[The Granite Mountains|Granite Mountains]] on the western coast of [[Corvallis]].
