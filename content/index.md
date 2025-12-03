@@ -1,9 +1,8 @@
 ---
 title: Welcome
 draft: false
-exclude-from-graph-view: true
 ---
-***A Foreword by Alvare Calbo, Dean of the Scrivere School, Imperial University***
+***A Foreword by [[Alvare Calbo]], Dean of the Scrivere School, Imperial University***
 
 Within the following pages lies the culmination of my lifetime’s devotion to the diligent study and faithful scribing of all that may be known in our world of [[The Mundane World of Eruven|Eruven]]. I have journeyed to every corner of this vast realm, and have often placed myself in great peril to compile what I believe to be the most comprehensive collections of  observations and knowledge ever assembled, now presented here as *The Encyclopedia of Eruven*.
 
