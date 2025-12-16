@@ -1,6 +1,8 @@
 [[Fey]] are creatures from [[The Mundane World of Eruven|Eruven's]] ancient [[Wodes|wodes]], originally native to the two moons of [[Tel]]: [[Lux the Moon of Dawn]] and [[Nox the Moon of Dusk]], commonly known as the Fey Moons. They are deeply tied to the old magics of the world and are extremely capricious creatures.
 
 Fey are strongly associated with the natural areas of Eruven and are most likely to be found in the elf-haunted wodes, especially in areas where there is a weak barrier in the [[The Astral Sea|Astral Sea]] between the Mundane World and either of the two [[The Celestials|celestial]] moons.
+
+The Fey Courts themselves are semi-organized groups of various fey creatures in a distinct area lead by one or more demigod-like beings known as Archfey. The courts are organized along the lines of the ideological leanings of the Archfey who lead them, and uniquely contain fey of all shapes and sizes who would not associate with each other under different circumstances.
 # Members
 There are many different species of fey, and they frustratingly often have extremely little in common aside from being originally native to the Fey Moons. A few common threads can be drawn between the many kinds of fey depending on the Fey Moon of origin. The Moon of Dawn and Dusk are like two sides of a coin, much like tragedy and comedy in drama. For example, creatures like pixies, dryads, goblins, and fauns trace their origin to the [[Lux the Moon of Dawn|Moon of Dawn]] and creatures like hags, lycanthropes, owlbears, and trolls trace their origin to the [[Nox the Moon of Dusk|Moon of Dusk]].
 # Archfey
@@ -11,3 +13,7 @@ It is theorized that any fey creature that grows powerful enough, either through
 Listed below is a small list of come notable or powerful Archfey:
 - [[Baba Barsina Mother of Witches]]
 - [[Ryll Prince of Sweet Things]]
+- [[Siwan the Last Word]]
+- [[Baba Elspath Author of Hexes]]
+- [[Dyfrid Prince of Forgotten Things]]
+- [[Madrun Prince of Small Beasts]]
