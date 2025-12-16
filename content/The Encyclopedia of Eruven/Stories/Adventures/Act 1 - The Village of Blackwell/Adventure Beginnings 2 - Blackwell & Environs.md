@@ -12,7 +12,7 @@ Triumphant heroes. Plotting villains. The people of Blackwell in need of the hel
 > 
 > Hope flickers. Order crumbles. This is a land in need of heroes. 
 > 
-> It was the 10th of May, 1326, when seven adventurers came to [[Blackwell]], a tiny village in the barony of [[Dunvarn]], in search of adventure with rumors of bandits on the roads and monsters prowling the nearby [[Silver Wood]]. 
+> It was the 10th of May, 1326, when seven adventurers came to [[The Village of Blackwell]], a tiny village in the barony of [[Dunvarn]], in search of adventure with rumors of bandits on the roads and monsters prowling the nearby [[Silver Wood]]. 
 > In the [[Feather Bed Inn]] the village's blacksmith Ashleigh pleaded for help: her daughter Violet had been kidnapped by goblins along the road out of town through the Silver Wood. 
 > The mercenaries known as the [[Gilded Hand]] refused to help without coin.
 > But ***you*** did not hesitate. 
@@ -36,7 +36,7 @@ Scene Description
 ## Post Mortem
 -The group learned a lot from the captive goblins and the rescued Violet
 	- The goblins are part of a group of traveling brigands called the [[Jagged Edge]].
-	- The Jagged Edge is lead by a mighty goblin, [[Queen Bargnot]]. A few years ago, Queen Bargnot was driven out of the area by the people of [[Blackwell]]. She's rebuilt her forces and come back for revenge!
+	- The Jagged Edge is lead by a mighty goblin, [[Queen Bargnot]]. A few years ago, Queen Bargnot was driven out of the area by the people of [[The Village of Blackwell]]. She's rebuilt her forces and come back for revenge!
 	- While searching for a new base of operation, Queen Bargnot found the tomb and noticed its frescoes, which promise a magic cup that can turn even the lowliest goblin into a great warrior.
 	- She left a contingent of goblins at the tomb (the goblins the party defeated) to search for the cup while she looks for a new base.
 	- The lower levels of the tomb are sealed off with magic. The goblins captured a human whom [[Vorgosh]], a goblin mage, believes can be used in a sacrificial ritual to unseal the tomb.

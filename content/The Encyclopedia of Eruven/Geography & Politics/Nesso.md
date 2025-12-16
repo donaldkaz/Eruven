@@ -1,0 +1,1 @@
+The largest city on the face of [[The Mundane World of Eruven|Eruven]] and the capital of the cultural and trade powerhouse of [[Virellie]]
